@@ -6,7 +6,13 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: 'Home',
+    author: 'Varnit Sinha'
+  },
+  
   plugins: [
+    'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass'
   ],
 }

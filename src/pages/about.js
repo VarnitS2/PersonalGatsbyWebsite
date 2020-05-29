@@ -2,10 +2,12 @@ import React from "react"
 
 import Layout from "../components/layout"
 import linkStyler from "../components/linkStyler.module.scss"
+import Head from "../components/head"
 
 const AboutPage = () => {
     return (
         <Layout>
+            <Head title="About" />
             <h1>About Me</h1>
             <p>
                 Hi! My name is Varnit Sinha and I am a freshman at the University of Illinois at Urbana Champaign. I am majoring in Engineering Physics with a concentration in Computational Physics, and minoring in Mathematics and Computer Science.
