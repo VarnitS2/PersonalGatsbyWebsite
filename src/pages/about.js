@@ -8,7 +8,8 @@ const AboutPage = () => {
     return (
         <Layout>
             <Head title="About" />
-            <h1>About Me</h1>
+            <h1>About Me [OUTDATED]</h1>
+            <h3>May 29, 2020</h3>
             <p>
                 Hi! My name is Varnit Sinha and I am a freshman at the University of Illinois at Urbana Champaign. I am majoring in Engineering Physics with a concentration in Computational Physics, and minoring in Mathematics and Computer Science.
             </p>
